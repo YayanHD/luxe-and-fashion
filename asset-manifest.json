@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/YayanHD/luxe-fashion.git/static/css/main.490e65a0.css",
+    "main.js": "/YayanHD/luxe-fashion.git/static/js/main.3164b5b0.js",
+    "static/media/hero3.png": "/YayanHD/luxe-fashion.git/static/media/hero3.cde872064cdc6102beb7.png",
+    "static/media/hero2.png": "/YayanHD/luxe-fashion.git/static/media/hero2.10bfc79a7b3ce701e01a.png",
+    "static/media/hero1.png": "/YayanHD/luxe-fashion.git/static/media/hero1.560e7264b6a776bba851.png",
+    "static/media/pana.png": "/YayanHD/luxe-fashion.git/static/media/pana.5cfb8aee4d175fb0158b.png",
+    "index.html": "/YayanHD/luxe-fashion.git/index.html",
+    "main.490e65a0.css.map": "/YayanHD/luxe-fashion.git/static/css/main.490e65a0.css.map",
+    "main.3164b5b0.js.map": "/YayanHD/luxe-fashion.git/static/js/main.3164b5b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.490e65a0.css",
+    "static/js/main.3164b5b0.js"
+  ]
+}
